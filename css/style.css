@@ -15,4 +15,43 @@
 
 */
 
+a:link {    
+    color:#9F9B6E;
+    font-weight:bold;}
+a:visited {
+    color:#9F9B6E}
 
+#scorpius {
+    background-color:#2A4024;}
+#sagittarius {
+    background-color:#654550;}
+#aquila {
+    background-color:#1D2615;}
+#hercules {
+    background-color:#25111E;}
+#lyra {
+    background-color:#1F2C3D;}
+#cygnus {
+    background-color:#3A4422;}
+#pegasus {
+    background-color:#3A182E;}
+#draco {
+    background-color:#1D2615;}
+#ursa_minor {
+    background-color:#264353;}
+#ursa_major {
+    background-color:#002F42;}
+#andromeda {
+    background-color:#654550;}
+#perseus {
+    background-color:#25111E;}
+#leo {
+    background-color:#1F2C3D;}
+#gemini {
+    background-color:#2A4024;}
+#taurus {
+    background-color:#3A182E;}
+#orion{
+    background-color:#023F4A;}
+#canis_major{
+    background-color:#023F4A;}

@@ -1,12 +1,172 @@
 
+#home {
+       background-image: url('../img/star-background.png');
+}
+    
+   
 .container {
 	margin-top: 1em;
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-left: auto;
-	width: 90%;
-	max-width: 800px;
-	padding: 2em;
-	border: 1px solid #eee;
+	width: 100%;
+	max-width: 936px;
 }
 
+.starmap {
+    margin-top: 1em;
+	margin-right: auto;
+	margin-bottom: 1em;
+	margin-left: auto;
+    background-image: url('../img/star-map.png');
+    width:960px;
+    height:2249px;
+}
+    
+
+#scorpiuslink {
+    position:absolute;
+    margin-top:450px;
+    margin-left:80px;
+}
+
+#sagittariuslink {
+    position:absolute;
+    margin-top:450px;
+    margin-left:430px;
+   
+}
+
+
+#aquilalink {
+    position:absolute;
+    margin-top:730px;
+    margin-left:650px;
+    
+}  
+    
+#herculeslink {
+    position:absolute;
+    margin-top:800px;
+    margin-left:200px;
+    }
+   
+    #lyralink {
+    position:absolute;
+    margin-top:955px;
+    margin-left:470px;
+   
+   }
+
+  #cygnuslink {
+    position:absolute;
+    margin-top:940px;
+    margin-left:420px;
+    padding:70px;
+    }
+
+ #dracolink {
+    position:absolute;
+    margin-top:1100px;
+    margin-left:310px;
+   
+   }
+
+ #majorlink {
+    position:absolute;
+    margin-top:1240px;
+    margin-left:100px;
+    
+   }
+
+ #minorlink {
+    position:absolute;
+    margin-top:1220px;
+    margin-left:350px;
+    }
+
+ #pegasuslink {
+    position:absolute;
+    margin-top:1050px;
+    margin-left:765px;
+        }
+
+ #andromedalink {
+    position:absolute;
+    margin-top:1340px;
+    margin-left:630px;
+}
+ 
+#leolink {
+    position:absolute;
+    margin-top:1450px;
+    margin-left:20px;
+   }
+
+#perseuslink{
+    position:absolute;
+    margin-top:1370px;
+    margin-left:440px;
+    
+    }
+
+#geminilink {
+    position:absolute;
+    margin-top:1620px;
+    margin-left:280px;
+   
+    }
+
+#tauruslink {
+    position:absolute;
+    margin-top:1530px;
+    margin-left:520px;
+   
+   }
+
+#orionlink {
+    position:absolute;
+    margin-top:1780px;
+    margin-left:449px;
+       }
+
+#canislink {
+    position:absolute;
+    margin-top:1900px;
+    margin-left:10px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+.backbutton {
+    display:block;
+    float:left;
+    margin-top:12%;
+    margin-right:50px;
+    margin-bottom:150px;
+}
+
+.textbox {
+    width:780px;
+    float:right;
+    margin-right:15%;
+    margin-top:-25px;
+    
+    
+}
+
+h1 {
+    margin-top:.2em;
+}
+//*  background-image: url('../img/star-background-right.png');
+    background-repeat:no-repeat;
+    background-position:right top;
+}
