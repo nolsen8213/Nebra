@@ -26,13 +26,13 @@
 
 #scorpiuslink {
     position:absolute;
-    margin-top:450px;
-    margin-left:80px;
+    margin-top:410px;
+    margin-left:50px;
 }
 
 #sagittariuslink {
     position:absolute;
-    margin-top:450px;
+    margin-top:400px;
     margin-left:430px;
    
 }
@@ -41,34 +41,34 @@
 #aquilalink {
     position:absolute;
     margin-top:730px;
-    margin-left:650px;
+    margin-left:600px;
     
 }  
     
 #herculeslink {
     position:absolute;
-    margin-top:800px;
-    margin-left:200px;
+    margin-top:770px;
+    margin-left:180px;
     }
    
     #lyralink {
     position:absolute;
-    margin-top:955px;
-    margin-left:470px;
+    margin-top:930px;
+    margin-left:450px;
    
    }
 
   #cygnuslink {
     position:absolute;
-    margin-top:940px;
-    margin-left:420px;
-    padding:70px;
+    margin-top:1010px;
+    margin-left:530px;
+   
     }
 
  #dracolink {
     position:absolute;
-    margin-top:1100px;
-    margin-left:310px;
+    margin-top:1050px;
+    margin-left:290px;
    
    }
 
@@ -87,8 +87,8 @@
 
  #pegasuslink {
     position:absolute;
-    margin-top:1050px;
-    margin-left:765px;
+    margin-top:1045px;
+    margin-left:730px;
         }
 
  #andromedalink {
